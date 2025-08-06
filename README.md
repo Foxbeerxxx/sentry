@@ -74,6 +74,14 @@ Press Ctrl-C to quit
 ```
 ![2](https://github.com/Foxbeerxxx/sentry/blob/main/img/img2.png)
 
+![3](https://github.com/Foxbeerxxx/sentry/blob/main/img/img3.png)
+
+![4](https://github.com/Foxbeerxxx/sentry/blob/main/img/img4.png)
+
+
+
+
+
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
